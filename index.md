@@ -31,7 +31,7 @@ Program that showcases understanding of recursion code
 ### Ten Bears
 [Ten Bears]
 <img src="images/Bears.png?raw=true"/>
-
+Program that prints 10 ASCII art bears and showcases while statements and integer increment 
 
 
 ---
