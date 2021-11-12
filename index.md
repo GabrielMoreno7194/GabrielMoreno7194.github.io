@@ -6,7 +6,8 @@
 
 [Journey to El Dorado](/sample_page)
 <img src="images/Adventure1.png?raw=true"/>
-ABC
+<img src="images/Adventure2.png?raw=true"/>
+A game that showcases basic C# programming principles
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
