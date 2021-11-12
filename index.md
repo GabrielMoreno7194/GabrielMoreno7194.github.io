@@ -7,7 +7,7 @@
 [Journey to El Dorado]
 <img src="images/Adventure1.png?raw=true"/>
 <img src="images/Adventure2.png?raw=true"/>
-A game that showcases basic C# programming (if/else, textcolors, classes, instances, etc.)
+A choice-based game that showcases basic C# programming (if/else, textcolors, classes, instances, etc.)
 ---
 ### Madlib 
 [Madlib]
@@ -19,7 +19,14 @@ A game that showcases basic C# programming (if/else, textcolors, classes, instan
 <img src="images/Numbers.png?raw=true"/>
 
 ---
-
+### Recursion
+[Recursion]
+<img src="images/Recursion.png?raw=true"/>
+Program that showcases understanding of recursion code
+---
+### Ten Bears
+[Ten Bears]
+<img src="images/Bears.png?raw=true"/>
 
 
 
