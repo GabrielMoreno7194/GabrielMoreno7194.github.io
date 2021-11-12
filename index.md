@@ -6,6 +6,7 @@
 
 [Journey to El Dorado](/sample_page)
 <img src="images/Adventure1.png?raw=true"/>
+ABC
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
