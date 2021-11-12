@@ -4,19 +4,19 @@
 
 ### Adventure Game 
 
-[Journey to El Dorado](/sample_page)
+[Journey to El Dorado]
 <img src="images/Adventure1.png?raw=true"/>
 <img src="images/Adventure2.png?raw=true"/>
 A game that showcases basic C# programming (if/else, textcolors, classes, instances, etc.)
 ---
 ### Madlib 
-[Madlib](/sample_page)
+[Madlib]
 <img src="images/Madlib.png?raw=true"/>
 
 ---
 ### Numeric Guessing Game 
-[Numeric Guessing Game](http://example.com/)
-<img src="images/Numeric.png?raw=true"/>
+[Numeric Guessing Game]
+<img src="images/Numbers.png?raw=true"/>
 
 ---
 
