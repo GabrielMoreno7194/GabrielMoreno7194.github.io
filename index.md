@@ -22,7 +22,7 @@ A choice-based game that showcases basic C# programming (if/else, textcolors, cl
 ---
 ### Recursion
 [Recursion]
-<img src="images/Recursion.png?raw=true"/>
+<img src="images/Recursion2.png?raw=true"/>
 Program that showcases understanding of recursion code
 ---
 ### Ten Bears
