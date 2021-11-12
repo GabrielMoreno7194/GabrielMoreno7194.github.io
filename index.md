@@ -7,7 +7,7 @@
 [Journey to El Dorado]
 <img src="images/Adventure1.png?raw=true"/>
 <img src="images/Adventure2.png?raw=true"/>
-A choice-based game that showcases basic C# programming (if/else, textcolors, classes, instances, etc.)
+A choice-based game that showcases basic C# programming (if/else, textcolors, classes, instances, etc.) and also remembers choices made that affect the outcome of the ending
 
 ---
 ### Madlib 
