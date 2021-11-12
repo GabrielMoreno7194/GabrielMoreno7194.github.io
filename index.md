@@ -8,6 +8,7 @@
 <img src="images/Adventure1.png?raw=true"/>
 <img src="images/Adventure2.png?raw=true"/>
 A choice-based game that showcases basic C# programming (if/else, textcolors, classes, instances, etc.)
+
 ---
 ### Madlib 
 [Madlib]
