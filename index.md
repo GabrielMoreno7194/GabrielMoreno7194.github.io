@@ -9,22 +9,14 @@
 <img src="images/Adventure2.png?raw=true"/>
 A game that showcases basic C# programming (if/else, textcolors, classes, instances, etc.)
 ---
+### Madlib 
 [Madlib](/sample_page)
 <img src="images/Madlib.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Numeric Guessing Game 
+[Numeric Guessing Game](http://example.com/)
+<img src="images/Numeric.png?raw=true"/>
 
 ---
 
