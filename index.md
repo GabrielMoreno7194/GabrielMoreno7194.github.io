@@ -13,17 +13,20 @@ A choice-based game that showcases basic C# programming (if/else, textcolors, cl
 ### Madlib 
 [Madlib]
 <img src="images/Madlib.png?raw=true"/>
+A madlib game that shows understanding of getting user inputs and storing them as strings
 
 ---
 ### Numeric Guessing Game 
 [Numeric Guessing Game]
 <img src="images/Numbers.png?raw=true"/>
+A numeric guessing game that showcases examples of Tryparse, if/else, randomizing numbers, arrays and user input 
 
 ---
 ### Recursion
 [Recursion]
 <img src="images/Recursion2.png?raw=true"/>
 Program that showcases understanding of recursion code
+
 ---
 ### Ten Bears
 [Ten Bears]
