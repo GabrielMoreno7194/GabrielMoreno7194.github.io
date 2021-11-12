@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Adventure Game 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Journey to El Dorado](/sample_page)
+<img src="images/Adventure1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
